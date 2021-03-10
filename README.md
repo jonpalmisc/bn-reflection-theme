@@ -2,4 +2,4 @@
 
 > by Jon Palmisciano (@jonpalmisc)
 
-![Reflection Theme Preview][preview.png]
+![Reflection Theme Preview](preview.png)
