@@ -39,19 +39,29 @@
   },
 
   "theme-colors": {
-    "addressColor": "base09",
     "modifiedColor": "base08",
     "insertedColor": "base0C",
     "notPresentColor": "base03",
     "selectionColor": "base02",
     "outlineColor": "base05",
 
+    "addressColor": "base09",
+    "registerColor": "base0B",
+    "numberColor": "base09",
+    "codeSymbolColor": "base0D",
+    "dataSymbolColor": "base0B",
+    "stackVariableColor": "base08",
+    "importColor": "base0D",
+    "stringColor": "base0B",
+    "typeNameColor": "base0A",
+    "fieldNameColor": "base05",
+    "keywordColor": "base0E",
+    "uncertainColor": "base03",
+
     "backgroundHighlightDarkColor": "base00",
     "backgroundHighlightLightColor": "base00",
-
     "boldBackgroundHighlightDarkColor": "base03",
     "boldBackgroundHighlightLightColor": "base03",
-
     "alphanumericHighlightColor": "base0A",
     "printableHighlightColor": "base08",
 
@@ -68,14 +78,6 @@
     "altFalseBranchColor": "base07",
     "altUnconditionalBranchColor": "base08",
 
-    "registerColor": "base0B",
-    "numberColor": "base09",
-
-    "codeSymbolColor": "base0D",
-    "dataSymbolColor": "base0B",
-
-    "stackVariableColor": "base08",
-    "importColor": "base0D",
     "instructionHighlightColor": "base02",
     "tokenHighlightColor": ["~", "base02", "base0D", 128],
     "annotationColor": "base0E",
@@ -85,12 +87,6 @@
     "linearDisassemblyBlockColor": "base00",
     "linearDisassemblyNoteColor": "base01",
     "linearDisassemblySeparatorColor": "base03",
-
-    "stringColor": "base0B",
-    "typeNameColor": "base0A",
-    "fieldNameColor": "base05",
-    "keywordColor": "base0E",
-    "uncertainColor": "base03",
 
     "scriptConsoleOutputColor": "base0B",
     "scriptConsoleErrorColor": "base08",
