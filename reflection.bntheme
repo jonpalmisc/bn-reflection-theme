@@ -60,13 +60,6 @@
     "annotationColor": "base0D",
     "opcodeColor": "base03",
 
-    "backgroundHighlightDarkColor": "base00",
-    "backgroundHighlightLightColor": "base00",
-    "boldBackgroundHighlightDarkColor": "base03",
-    "boldBackgroundHighlightLightColor": "base03",
-    "alphanumericHighlightColor": "base0A",
-    "printableHighlightColor": "base08",
-
     "graphBackgroundDarkColor": "base00",
     "graphBackgroundLightColor": "base00",
     "graphNodeDarkColor": "base01",
@@ -80,6 +73,12 @@
     "altFalseBranchColor": "base07",
     "altUnconditionalBranchColor": "base08",
 
+    "backgroundHighlightDarkColor": "base00",
+    "backgroundHighlightLightColor": "base00",
+    "boldBackgroundHighlightDarkColor": "base03",
+    "boldBackgroundHighlightLightColor": "base03",
+    "alphanumericHighlightColor": "base0A",
+    "printableHighlightColor": "base08",
     "instructionHighlightColor": "base02",
     "tokenHighlightColor": ["~", "base02", "base0D", 128],
 
