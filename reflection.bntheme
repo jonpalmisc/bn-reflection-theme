@@ -96,13 +96,13 @@
     "scriptConsoleErrorColor": "base08",
     "scriptConsoleEchoColor": "base05",
 
-    "blueStandardHighlightColor": "base0D",
+    "blueStandardHighlightColor": "base08",
     "greenStandardHighlightColor": "base0B",
-    "cyanStandardHighlightColor": "base0C",
-    "redStandardHighlightColor": "base08",
-    "magentaStandardHighlightColor": "base0E",
-    "yellowStandardHighlightColor": "base0A",
-    "orangeStandardHighlightColor": "base09",
+    "cyanStandardHighlightColor": "base0D",
+    "redStandardHighlightColor": "base09",
+    "magentaStandardHighlightColor": "base0A",
+    "yellowStandardHighlightColor": "base0F",
+    "orangeStandardHighlightColor": "base0C",
     "whiteStandardHighlightColor": "base04",
     "blackStandardHighlightColor": "base02"
   }
