@@ -39,6 +39,11 @@
     "Light": "base03"
   },
 
+  "disabledPalette": {
+    "Button": ["~", "base00", "base01", 191],
+    "ButtonText": "base03"
+  },
+
   "theme-colors": {
     "modifiedColor": "base08",
     "insertedColor": "base0C",
