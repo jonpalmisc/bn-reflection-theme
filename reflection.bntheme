@@ -11,9 +11,6 @@
 
     "highlight": [75, 99, 133],
 
-    "base06": [244, 244, 245],
-    "base07": [250, 250, 250],
-
     "purple": [216, 180, 254],
     "red": [252, 165, 165],
     "pink": [240, 171, 252],
@@ -76,9 +73,10 @@
     "trueBranchColor": "green",
     "falseBranchColor": "red",
     "unconditionalBranchColor": "blue",
-    "altTrueBranchColor": "base06",
-    "altFalseBranchColor": "base07",
-    "altUnconditionalBranchColor": "purple",
+
+    "altTrueBranchColor": "blue",
+    "altFalseBranchColor": "orange",
+    "altUnconditionalBranchColor": "semi-light",
 
     "backgroundHighlightDarkColor": "dark",
     "backgroundHighlightLightColor": "dark",
