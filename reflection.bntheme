@@ -7,6 +7,7 @@
     "dark": [39, 39, 42],
     "semi-dark": [63, 63, 70],
     "semi-light": [113, 113, 122],
+    "dodrant-light": [161, 161, 170],
     "light": [228, 228, 231],
 
     "highlight": [75, 99, 133],
@@ -61,8 +62,8 @@
     "fieldNameColor": "light",
     "keywordColor": "pink",
     "uncertainColor": "semi-light",
-    "annotationColor": "blue",
-    "opcodeColor": "semi-light",
+    "annotationColor": "dodrant-light",
+    "opcodeColor": "dodrant-light",
 
     "graphBackgroundDarkColor": "dark",
     "graphBackgroundLightColor": "dark",
