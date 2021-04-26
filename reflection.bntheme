@@ -1,7 +1,7 @@
 {
   "name": "Reflection",
   "style": "Fusion",
-  "styleSheet": "QMenu { background-color: #27272A; border: 1px solid #52525B; } QMenu::separator { background-color: #3F3F46; height: 1px; } QMenu::item:selected { background-color: #4B6385; } QMenu::item:disabled { color: #71717A; }",
+  "styleSheet": "QMenu { background-color: #27272A; border: 1px solid #52525B; } QMenu::separator { background-color: #3F3F46; height: 1px; } QMenu::item:selected { background-color: #476778; } QMenu::item:disabled { color: #71717A; }",
 
   "colors": {
     "dark": [39, 39, 42],
@@ -9,8 +9,6 @@
     "semi-light": [113, 113, 122],
     "dodrant-light": [161, 161, 170],
     "light": [228, 228, 231],
-
-    "highlight": [75, 99, 133],
 
     "purple": [216, 180, 254],
     "red": [252, 165, 165],
@@ -33,7 +31,7 @@
     "ButtonText": "light",
     "BrightText": "yellow",
     "Link": "blue",
-    "Highlight": "highlight",
+    "Highlight": ["~", "dark", "blue", 95],
     "HighlightedText": "light",
     "Light": "semi-light"
   },
@@ -47,7 +45,7 @@
     "modifiedColor": "purple",
     "insertedColor": "orange",
     "notPresentColor": "semi-light",
-    "selectionColor": "highlight",
+    "selectionColor": ["~", "dark", "blue", 95],
     "outlineColor": "light",
 
     "addressColor": "green",
@@ -85,8 +83,8 @@
     "boldBackgroundHighlightLightColor": "semi-light",
     "alphanumericHighlightColor": "pink",
     "printableHighlightColor": "purple",
-    "instructionHighlightColor": "highlight",
-    "tokenHighlightColor": ["~", "highlight", "blue", 128],
+    "instructionHighlightColor": ["~", "dark", "blue", 95],
+    "tokenHighlightColor": ["~", "dark", "blue", 127],
 
     "linearDisassemblyFunctionHeaderColor": "semi-dark",
     "linearDisassemblyBlockColor": "dark",
