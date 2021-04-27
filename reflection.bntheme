@@ -1,7 +1,7 @@
 {
   "name": "Reflection",
   "style": "Fusion",
-  "styleSheet": "QMenu { background-color: #27272A; border: 1px solid #52525B; } QMenu::separator { background-color: #3F3F46; height: 1px; } QMenu::item:selected { background-color: #476778; } QMenu::item:disabled { color: #71717A; }",
+  "styleSheet": "QMenu { background-color: #27272A; border: 1px solid #52525B; } QMenu::separator { background-color: #3F3F46; height: 1px; } QMenu::item:selected { background-color: #3C5577; } QMenu::item:disabled { color: #71717A; }",
 
   "colors": {
     "dark": [39, 39, 42],
@@ -9,6 +9,8 @@
     "semi-light": [113, 113, 122],
     "dodrant-light": [161, 161, 170],
     "light": [228, 228, 231],
+
+    "accent": [96, 165, 250],
 
     "purple": [216, 180, 254],
     "red": [252, 165, 165],
@@ -31,7 +33,7 @@
     "ButtonText": "light",
     "BrightText": "yellow",
     "Link": "blue",
-    "Highlight": ["~", "dark", "blue", 95],
+    "Highlight": ["~", "dark", "accent", 95],
     "HighlightedText": "light",
     "Light": "semi-light"
   },
@@ -45,7 +47,7 @@
     "modifiedColor": "purple",
     "insertedColor": "orange",
     "notPresentColor": "semi-light",
-    "selectionColor": ["~", "dark", "blue", 95],
+    "selectionColor": ["~", "dark", "accent", 95],
     "outlineColor": "light",
 
     "addressColor": "green",
@@ -59,7 +61,7 @@
     "typeNameColor": "pink",
     "fieldNameColor": "light",
     "keywordColor": "pink",
-    "uncertainColor": "semi-light",
+    "uncertainColor": "dodrant-light",
     "annotationColor": "dodrant-light",
     "opcodeColor": "dodrant-light",
 
@@ -83,8 +85,8 @@
     "boldBackgroundHighlightLightColor": "semi-light",
     "alphanumericHighlightColor": "pink",
     "printableHighlightColor": "purple",
-    "instructionHighlightColor": ["~", "dark", "blue", 95],
-    "tokenHighlightColor": ["~", "dark", "blue", 127],
+    "instructionHighlightColor": ["~", "dark", "accent", 95],
+    "tokenHighlightColor": ["~", "dark", "accent", 127],
 
     "linearDisassemblyFunctionHeaderColor": "semi-dark",
     "linearDisassemblyBlockColor": "dark",
