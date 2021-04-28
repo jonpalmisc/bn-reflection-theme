@@ -9,6 +9,7 @@
     "semi-light": [113, 113, 122],
     "dodrant-light": [161, 161, 170],
     "light": [228, 228, 231],
+    "white": [255, 255, 255],
 
     "highlight": [78, 88, 115],
     "highlight-bright": [77, 107, 149],
@@ -35,7 +36,7 @@
     "BrightText": "yellow",
     "Link": "blue",
     "Highlight": "highlight-bright",
-    "HighlightedText": "light",
+    "HighlightedText": "white",
     "Light": "semi-light"
   },
 
