@@ -81,7 +81,7 @@
     "altUnconditionalBranchColor": "semi-light",
 
     "backgroundHighlightDarkColor": "dark",
-    "backgroundHighlightLightColor": "dark",
+    "backgroundHighlightLightColor": ["~", "dark", "semi-dark", 127],
     "boldBackgroundHighlightDarkColor": "semi-light",
     "boldBackgroundHighlightLightColor": "semi-light",
     "alphanumericHighlightColor": "pink",
