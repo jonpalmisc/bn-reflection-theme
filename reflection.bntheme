@@ -13,12 +13,12 @@
     "highlight": [78, 88, 115],
     "highlight-bright": [77, 107, 149],
 
-    "purple": [216, 180, 254],
     "red": [252, 165, 165],
     "pink": [240, 171, 252],
     "green": [134, 239, 172],
     "orange": [253, 186, 116],
     "blue": [125, 211, 252],
+    "indigo": [165, 180, 252],
     "yellow": [253, 230, 138]
   },
 
@@ -45,7 +45,7 @@
   },
 
   "theme-colors": {
-    "modifiedColor": "purple",
+    "modifiedColor": "indigo",
     "insertedColor": "orange",
     "notPresentColor": "semi-light",
     "selectionColor": "highlight",
@@ -58,7 +58,7 @@
     "dataSymbolColor": "red",
     "stackVariableColor": "blue",
     "importColor": "orange",
-    "stringColor": "blue",
+    "stringColor": "indigo",
     "typeNameColor": "pink",
     "fieldNameColor": "light",
     "keywordColor": "pink",
@@ -85,7 +85,7 @@
     "boldBackgroundHighlightDarkColor": "semi-light",
     "boldBackgroundHighlightLightColor": "semi-light",
     "alphanumericHighlightColor": "pink",
-    "printableHighlightColor": "purple",
+    "printableHighlightColor": "indigo",
     "instructionHighlightColor": "highlight",
     "tokenHighlightColor": "highlight-bright",
 
@@ -95,10 +95,10 @@
     "linearDisassemblySeparatorColor": "semi-light",
 
     "scriptConsoleOutputColor": "green",
-    "scriptConsoleErrorColor": "purple",
+    "scriptConsoleErrorColor": "red",
     "scriptConsoleEchoColor": "light",
 
-    "blueStandardHighlightColor": "purple",
+    "blueStandardHighlightColor": "indigo",
     "greenStandardHighlightColor": "green",
     "cyanStandardHighlightColor": "blue",
     "redStandardHighlightColor": "red",
