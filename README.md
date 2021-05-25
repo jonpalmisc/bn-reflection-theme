@@ -6,7 +6,10 @@
 
 > Screenshot taken with [Screenshot Ninja](https://github.com/jonpalmisc/screenshot_ninja).
 
-To install, simply place `reflection.bntheme` in your user themes folder. For
-more detailed installation instructions, see the [community themes
-repository](https://github.com/Vector35/community-themes).
+**Reflection is now included with Binary Ninja!** This repository will remain
+for historical purposes, but any new issues should be filed under the
+[binaryninja-api](https://github.com/Vector35/binaryninja-api) repository.
 
+*Tip: If you have been using a modified version of Reflection, you will have to
+change the theme's name in the theme file, as the embedded version will take
+precedence over a local copy.*
