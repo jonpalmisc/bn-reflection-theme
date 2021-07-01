@@ -2,10 +2,6 @@
 
 > by Jon Palmisciano (@jonpalmisc)
 
-![Reflection Theme Preview](preview.png)
-
-> Screenshot taken with [Screenshot Ninja](https://github.com/jonpalmisc/screenshot_ninja).
-
 **Reflection is now included with Binary Ninja!** This repository will remain
 for historical purposes, but any new issues should be filed under the
 [binaryninja-api](https://github.com/Vector35/binaryninja-api) repository.
